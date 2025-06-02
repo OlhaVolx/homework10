@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23131989-e465-468c-a46d-6e3cad10a83d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/HW10_Goals.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/python.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/pyvenv.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/list_methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests_goals/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests_goals/test_list_goals.py" afterDir="false" />
+    <list default="true" id="23131989-e465-468c-a46d-6e3cad10a83d" name="Changes" comment="add README.md file">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,9 +22,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;OlhaVolx&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/OlhaVolx/homework10&quot;,
+    &quot;accountId&quot;: &quot;cb5ee0dc-0640-4b70-91e4-2a93e438edc8&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2xwbQJLJcZk8ryHI0KgfCmkYAyF" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -44,23 +45,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python tests.Python tests for test_list_goals.test.executor": "Run",
-    "Python tests.Python tests for test_list_goals.test_create_goal_with_invalid_team_id.executor": "Run",
-    "Python tests.Python tests for test_list_goals.test_delete_goal_with_invalid_goal_id.executor": "Run",
-    "Python tests.Python tests for test_list_goals.test_get_goal_with_invalid_goal_id.executor": "Run",
-    "Python tests.Python tests for test_list_goals.test_get_goal_with_invalid_team_id.executor": "Run",
-    "Python tests.Python tests for test_list_goals.test_get_goal_with_invalid_token.executor": "Run",
-    "Python tests.Python tests for test_list_goals.test_get_list.executor": "Run",
-    "Python tests.Python tests for test_list_goals.test_get_with_invalid_token.executor": "Run",
-    "Python tests.Python tests for test_list_goals.test_update_goal_with_invalid_goal_id.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests for test_list_goals.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_list_goals.test_create_goal_with_invalid_team_id.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_list_goals.test_delete_goal_with_invalid_goal_id.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_list_goals.test_get_goal_with_invalid_goal_id.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_list_goals.test_get_goal_with_invalid_team_id.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_list_goals.test_get_goal_with_invalid_token.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_list_goals.test_get_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_list_goals.test_get_with_invalid_token.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_list_goals.test_update_goal_with_invalid_goal_id.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python tests.Python tests for test_list_goals.test_delete_goal_with_invalid_goal_id">
     <configuration name="Python tests for test_list_goals.test_create_goal_with_invalid_team_id" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="HW10_Goals" />
@@ -162,6 +163,23 @@
       <option name="presentableId" value="Default" />
       <updated>1748852065480</updated>
     </task>
+    <task id="LOCAL-00001" summary="add circleci setting">
+      <option name="closed" value="true" />
+      <created>1748867029528</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1748867029528</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add README.md file">
+      <option name="closed" value="true" />
+      <created>1748867742889</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1748867742889</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -174,5 +192,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add circleci setting" />
+    <MESSAGE value="add README.md file" />
+    <option name="LAST_COMMIT_MESSAGE" value="add README.md file" />
   </component>
 </project>

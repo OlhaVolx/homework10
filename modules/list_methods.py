@@ -2,17 +2,17 @@ import requests
 from faker import Faker
 fake=Faker()
 
-my_headers = {'Authorization':'pk_200434380_RZKCSHSPV4593XTRTU5P7UCT2RRT3FVY'}
+my_headers = {'Authorization':'pk_200540491_JF747JSA50120BFLS6W7U8ETGOF9HG9V'}
 
 def get_goals():
-    return requests.get('https://api.clickup.com/api/v2/team/90151218231/goal', headers=my_headers)
+    return requests.get('https://api.clickup.com/api/v2/team/90151244811/goal', headers=my_headers)
 
 def create_goal():
     random_name = fake.first_name()
     body = {
         "name": random_name
     }
-    return requests.post('https://api.clickup.com/api/v2/team/90151218231/goal', headers=my_headers, json=body)
+    return requests.post('https://api.clickup.com/api/v2/team/90151244811/goal', headers=my_headers, json=body)
 
 def get_goal(goal_id):
     return requests.get('https://api.clickup.com/api/v2/goal/' + goal_id, headers=my_headers)
